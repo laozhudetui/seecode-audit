@@ -24,3 +24,4 @@ gevent
 markdownify
 rsa
 func_timeout
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
